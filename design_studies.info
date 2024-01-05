@@ -1,0 +1,8 @@
+<cfd_design_studies user_name="Katelyn Lam" version="23.0.20220516">
+ <design_study study_id="ac4becb8-e400-46f2-ac58-5164e5d1bc9d" instance_id="id_not_defined" folder="C:/DATA/UofT/2022-2023/APS112/Assignments/CDS/Borehole_v3" name="Borehole_v3">
+  <design model_id="Borehole_MESH_Geometry_ONLY v3.cfdsmt" lock_status="false" name="Design 1" launcher_type="CP_ASM_ACIS7">
+   <analysis name="Scenario 1"/>
+   <analysis name="Scenario 2"/>
+  </design>
+ </design_study>
+</cfd_design_studies>
